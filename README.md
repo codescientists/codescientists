@@ -1,4 +1,4 @@
-![github profile banner](https://user-images.githubusercontent.com/66505013/150590860-d4eef12b-e274-4553-bf04-7e376ad0080f.PNG)
+![github profile banner](https://raw.githubusercontent.com/codescientists/codescientists/main/assets/profile-banner-image.png)
 
 Hello! I am Piyush Patil, a Computer Science Student. \
 A Full Stack Web Developer. \
