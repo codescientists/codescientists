@@ -1,4 +1,4 @@
-![github profile banner](https://raw.githubusercontent.com/codescientists/codescientists/main/assets/profile-banner-image.png)
+![github profile banner](https://user-images.githubusercontent.com/66505013/202858362-ad037312-8c45-411a-838c-b850b7f66b9c.png)
 
 Hello! I am Piyush Patil, a Computer Science Student. \
 A Full Stack Web Developer. \
@@ -11,7 +11,7 @@ I am also Passionate about Blockchain Technology.
 
 - 💬 Ask me about **React, Nextjs, MongoDB, Nodejs,**
 
-- 📫 How to reach me **piyushpp2412@gmail.com**
+- 📫 How to reach me **codingtorque@gmail.com**
 ## 🏆 GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codescientists&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
