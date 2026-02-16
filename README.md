@@ -1,77 +1,129 @@
-![github profile banner](https://user-images.githubusercontent.com/66505013/202858362-ad037312-8c45-411a-838c-b850b7f66b9c.png)
+![github profile banner](https://raw.githubusercontent.com/codescientists/codescientists/refs/heads/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
-Hello! I am Piyush Patil, a Computer Science Student. \
-A Full Stack Web Developer. \
-I use Technologies like MERN, Nextjs, etc. to make Websites. \
-I am also Passionate about Blockchain Technology. 
+<h1 align="center">Hi 👋, I'm Piyush Patil</h1>
+<h3 align="center">Full-Stack Web Developer | MERN & Next.js | Building Scalable Products</h3>
+
+<p align="center">
+  <a href="https://piyushcodes.com" target="_blank"><strong>🌐 Portfolio</strong></a> •
+  <a href="mailto:codingtorque@gmail.com"><strong>📧 Email</strong></a>
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Nextjs, Redux, Blockchain Development.**
+- 💻 Full-Stack Web Developer focused on **MERN, Next.js & scalable web apps**
+- 🧠 Strong understanding of **frontend architecture, APIs & databases**
+- ⚡ Experience building **real-world products, dashboards & SaaS tools**
+- 🌱 Currently learning **Advanced Next.js, Redux, Blockchain Development**
+- 🤝 Open to **full-time roles, freelance projects & collaborations**
 
-- 💬 Ask me about **React, Nextjs, MongoDB, Nodejs,**
+---
 
-- 📫 How to reach me **codingtorque@gmail.com**
-## 🏆 GitHub Trophy
+## 🧠 Tech I Work With
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codescientists&theme=onedark&row=1&column=6)](https://github.com/codescientists/github-profile-trophy) 
-
-## 
-## 📊 Stats
-
-[![trophy](https://github-readme-stats.vercel.app/api?username=codescientists&theme=blue-green)](https://github.com/codescientists/github-profile-trophy) 
-
-## 👨‍💻 Connect with me 
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/piyushpatil1243)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code.scientist)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/piyushpatil1243)
-[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@codescientist)
-
-## 🖥 Web Development
-
+### 🖥 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-## ⚙ Backend Development 
-
+### ⚙ Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DjangoRest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-## 🛠 Devops
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### 🛠 DevOps & Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-## ☁ Cloud
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![gcd](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![digitalocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+### ☁ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📄 Code Editors
+---
 
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+## 🌟 Featured Projects
+
+### 🧠 SmartAssist – AI Business Chatbot SaaS
+**Tech:** Next.js, React, Node.js, MongoDB, Google Gemini API  
+
+- Businesses can create and manage multiple AI chatbots
+- Train bots using custom business data
+- Real-time, context-aware AI conversations
+- Scalable SaaS-style architecture
+
+🔗 **Repo:** 
+🌐 **Live:** https://smartassist.vercel.app  
+
+---
+
+### 🛒 Full-Stack E-Commerce Platform
+**Tech:** MERN Stack, Stripe, Cloudinary  
+
+- Product catalog with variants & inventory control
+- Secure authentication and cart management
+- Online payments using Stripe
+- Admin dashboard for orders & users
+
+🔗 **Repo:** 
+
+---
+
+### 🎓 Learning Management System (LMS)
+**Tech:** Next.js, MongoDB, Tailwind CSS  
+
+- Course, module, and lesson management
+- Student progress & analytics dashboard
+- Designed for scalable technical education platforms
+
+🔗 **Repo:**   
+
+---
+
+### 💬 Real-Time Chat Application
+**Tech:** React, Socket.io, Node.js, MongoDB  
+
+- Real-time messaging with WebSockets
+- Persistent chat history
+- Secure user authentication & sessions
+
+🔗 **Repo:**  
+
+---
+
+### 📄 AI Resume Builder SaaS
+**Tech:** Next.js, MERN Stack, AI APIs  
+
+- AI-powered resume generation
+- Editable templates with PDF export
+- User dashboard with resume history
+
+🔗 **Repo:**  
+
+---
+
+> 💡 *All projects are built with real-world use cases, scalability, and clean architecture in mind.*
+
+
+## 🤝 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/piyushcodes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code.scientist)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/piyushpatil1243)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@codescientist)
+
+---
+
+⭐ **If you like my work, consider starring some repositories!**
